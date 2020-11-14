@@ -17,13 +17,13 @@
 
 
 
-- 🔭 I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple!
-- 🌱 I’m currently learning more about SwiftUI and Machine Learning.
-- 👯 I’m looking to get hired on part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
-- 💬 Ask me about Accessibility!
-- 📫 How to reach me: [Twitter - @anhphamprog](https://twitter.com/anhphamprog) or [LinkedIn - anhpham](https://www.linkedin.com/in/anh-pham-aa483a149/)
-- 😄 Pronouns: She/Her/Hers
-- ⚡ Fun facts: I can juggle (with 3 balls, for now). And I watch a LOT of movies and TV shows.
+- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple!
+- 🌱  I’m currently learning more about SwiftUI and Machine Learning.
+- 👯  I’m looking to get hired on part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
+- 💬  Ask me about Accessibility!
+- 📫  How to reach me: [Twitter - @anhphamprog](https://twitter.com/anhphamprog) or [LinkedIn - anhpham](https://www.linkedin.com/in/anh-pham-aa483a149/)
+- 😄  Pronouns: She/Her/Hers
+- ⚡  Fun facts: I can juggle (with 3 balls, for now). And I watch a LOT of movies and TV shows.
 
 [![Twitter: anhphamprog](https://img.shields.io/twitter/follow/anhphamprog?style=social)](https://twitter.com/anhphamprog)
 [![GitHub Taenerys](https://img.shields.io/github/followers/Taenerys?label=follow&style=social)](https://github.com/Taenerys)
