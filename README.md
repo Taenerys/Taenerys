@@ -23,7 +23,7 @@
 - 💬  Ask me about Accessibility!
 - 📫  How to reach me: [Twitter - @anhphamprog](https://twitter.com/anhphamprog) or [LinkedIn - anhpham](https://www.linkedin.com/in/anh-pham-aa483a149/)
 - 😄  Pronouns: She/Her/Hers
-- ⚡  Fun facts: My name is pronounced as "Ein" in "Einstein". I can juggle (with 3 balls, for now). And I watch a LOT of movies and TV shows.
+- ⚡  Fun facts: My name is pronounced as "Ein" in "Einstein". I can juggle! And I watch a LOT of movies and TV shows!
 
 [![Twitter: anhphamprog](https://img.shields.io/twitter/follow/anhphamprog?style=social)](https://twitter.com/anhphamprog)
 [![GitHub Taenerys](https://img.shields.io/github/followers/Taenerys?label=follow&style=social)](https://github.com/Taenerys)
