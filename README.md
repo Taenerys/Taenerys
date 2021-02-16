@@ -17,7 +17,7 @@
 
 
 
-- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple!
+- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. Working freelance with SwiftUI right now and for a molecular ML research project!
 - 🌱  I’m currently learning more about SwiftUI and Machine Learning.
 - 👯  I’m looking to get hired for part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
 - ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/)
