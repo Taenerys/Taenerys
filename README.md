@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Taenerys&label=Views&color=blue&style=plastic" alt="Taenerys" /> </p>
 
 <a href="https://twitter.com/anhphamprog">
-  <img align="left" alt="Pawan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Anh's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/anh-pham-aa483a149/">
-  <img align="left" alt="Pawan's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Anh's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Taenerys">
   <img align="left" alt="Anh Pham's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -17,7 +17,7 @@
 
 
 
-- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. Working freelance with SwiftUI right now and for a molecular ML research project!
+- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. Working freelance with SwiftUI right now and for a molecular ML research project! I'm also juggling between being a fellow of two awesome fellowships - [Code for Equity Fellowship](https://www.impactlabs.io/fellowship) and [Reboot Fellowship](https://reboothq.substack.com/p/fellowship)
 - 🌱  I’m currently learning more about SwiftUI and Machine Learning.
 - 👯  I’m looking to get hired for part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
 - ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/)
