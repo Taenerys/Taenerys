@@ -23,7 +23,7 @@
 - ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/)
 - 💬  Ask me about Accessibility!
 - 📫  How to reach me: [Twitter - @anhphamprog](https://twitter.com/anhphamprog) or [LinkedIn - anhpham](https://www.linkedin.com/in/anh-pham-aa483a149/)
-- 😄  Pronouns: She/Her/Hers
+- 😄  Pronouns: She/They
 - ⚡  Fun facts: My name is pronounced as "Ein" in "Einstein". I can juggle! And I watch a LOT of movies and TV shows!
 
 [![Twitter: anhphamprog](https://img.shields.io/twitter/follow/anhphamprog?style=social)](https://twitter.com/anhphamprog)
