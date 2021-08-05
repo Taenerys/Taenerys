@@ -20,8 +20,8 @@
 - 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. Working freelance with SwiftUI right now and for a molecular ML research project! I'm also juggling between being a fellow of two awesome fellowships - [Code for Equity Fellowship](https://www.impactlabs.io/fellowship) and [Reboot Fellowship](https://reboothq.substack.com/p/fellowship)! Quite busy, I know, but I'm totally invested in them :) 
 - 🌱  I’m currently learning more about SwiftUI and Machine Learning.
 - 👯  I’m looking to get hired for part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
-- ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/)
-- 💬  Ask me about Accessibility!
+- ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/) and [Reboot newsletter](https://reboothq.substack.com/p/design)
+- 💬  Talk to me about Accessibility and the intersection of tech, humanity and power!
 - 📫  How to reach me: [Twitter - @anhphamprog](https://twitter.com/anhphamprog) or [LinkedIn - anhpham](https://www.linkedin.com/in/anh-pham-aa483a149/)
 - 😄  Pronouns: She/They
 - ⚡  Fun facts: My name is pronounced as "Ein" in "Einstein". I can juggle! And I watch a LOT of movies and TV shows!
