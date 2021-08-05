@@ -17,8 +17,8 @@
 
 
 
-- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. Working freelance with SwiftUI right now and for a molecular ML research project! I'm also juggling between being a fellow of two awesome fellowships - [Code for Equity Fellowship](https://www.impactlabs.io/fellowship) and [Reboot Fellowship](https://reboothq.substack.com/p/fellowship)! Quite busy, I know, but I'm totally invested in them :) 
-- 🌱  I’m currently learning more about SwiftUI and Machine Learning.
+- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. I just won [WWDC 2021 Swift Student Challenge](https://vancouversun.com/news/local-news/deaf-coder-one-of-two-vancouverites-among-global-winners-in-apples-swift-student-challenge) and am currently participating in [Swift Mentorship Program](https://swift.org/mentorship/) - contributing to Swift-related projects' documentation. I also am a [Production Engineering Fellow](https://fellowship.mlh.io/programs/production-engineering) (sponsored by Facebook) at Major League Hacking!
+- 🌱  I’m currently learning more about SwiftUI and DevOps / SRE.
 - 👯  I’m looking to get hired for part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
 - ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/) and [Reboot newsletter](https://reboothq.substack.com/p/design)
 - 💬  Talk to me about Accessibility and the intersection of tech, humanity and power!
