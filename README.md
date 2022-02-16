@@ -17,9 +17,9 @@
 
 
 
-- 🔭  I’m currently working on finishing my final year in college, after finishing my 2020 summer SWE internship at Apple. I just won [WWDC 2021 Swift Student Challenge](https://vancouversun.com/news/local-news/deaf-coder-one-of-two-vancouverites-among-global-winners-in-apples-swift-student-challenge) and am currently participating in [Swift Mentorship Program](https://swift.org/mentorship/) - contributing to Swift-related projects' documentation. I also am a [Production Engineering Fellow](https://fellowship.mlh.io/programs/production-engineering) (sponsored by Facebook) at Major League Hacking!
+- 🔭  I just graduated Bachelors in IT from FDU Vancouver with the highest honors, and have started working as SWE at Mastercard! Previously I won [WWDC 2021 Swift Student Challenge](https://vancouversun.com/news/local-news/deaf-coder-one-of-two-vancouverites-among-global-winners-in-apples-swift-student-challenge) and finished [Swift Mentorship Program](https://swift.org/mentorship/) - contributing to Swift-related projects' documentation. I also was a Admission Specialist and previously a [Production Engineering Fellow](https://fellowship.mlh.io/programs/production-engineering) (sponsored by Facebook) at Major League Hacking!
 - 🌱  I’m currently learning more about SwiftUI and DevOps / SRE.
-- 👯  I’m looking to get hired for part-time iOS engineer gigs in 2021 or to collaborate on iOS focused projects.
+- 👯  I’m not looking for any new gigs at the moment!
 - ✍️ I have written articles on: [The A11Y Project](https://www.a11yproject.com/) and [Reboot newsletter](https://reboothq.substack.com/p/design)
 - 💬  Talk to me about Accessibility and the intersection of tech, humanity and power!
 - 📫  How to reach me: [Twitter - @anhphamprog](https://twitter.com/anhphamprog) or [LinkedIn - anhpham](https://www.linkedin.com/in/anh-pham-aa483a149/)
