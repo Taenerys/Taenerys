@@ -17,7 +17,7 @@
 
 
 
-- 🔭  Current SWE at Mastercard - working on softwares at scale 💳 Also a fellow for Processing Foundation 2024 working on Disability Justice and Creative Code - please read more about my project and other fellows [here](https://processingfoundation.org/fellowships/fellowships-2024). Previously interned at Apple for iOS Accessibility team - see the Hearing Accessibility feature for Audiogram on your iPhone, that's me!
+- 🔭  Current SWE at Mastercard - working on softwares at scale 💳 Also a fellow for Processing Foundation 2024 working on Disability Justice and Creative Code - please read more about my project and other fellows [here](https://processingfoundation.org/fellowships/fellowships-2024). Previously interned at Apple for iOS Accessibility team - see the Hearing Accessibility feature for Audiogram on your iPhone? That's me!
 - ✅ Previously I won [WWDC 2021 Swift Student Challenge](https://vancouversun.com/news/local-news/deaf-coder-one-of-two-vancouverites-among-global-winners-in-apples-swift-student-challenge) and finished [Swift Mentorship Program](https://swift.org/mentorship/) - contributing to Swift-related projects' documentation! I also was previously a [Production Engineering Fellow](https://fellowship.mlh.io/programs/production-engineering) (sponsored by Facebook) at Major League Hacking! In college, I co-authored a published paper on [predicting physiological effects of chemical substances using Natural Language Processing](https://ieeexplore.ieee.org/document/9569202).
 - 🌻 Also love organizing communities - Reboot Fellowship, Viet Tech Mentorship and upcoming Vietnamese Queer Deaf community (more on this soon!)
 - 🌱  I’m currently learning more about Rust and internal database internals!
